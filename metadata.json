@@ -1,0 +1,5 @@
+{
+  "name": "Simulateur Crue Huveaune",
+  "description": "Simulation interactive de la crue de l'Huveaune : différenciation ruissellement vs décharge karstique basée sur les données hydrographiques.",
+  "requestFramePermissions": []
+}
